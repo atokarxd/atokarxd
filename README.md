@@ -3,7 +3,6 @@
 ___________
 * ## *AboutME* 🤓
   I'm aTokar, and 20 years old. A university student 👨‍🎓 ~~who drinks little alcohol~~ 🥃(fav: whiskey).
-  
   I'm not funny unfortunately :(
   I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹 I like dogs 🐶 and cats 🐱
   I have a cat, you can see it here:
