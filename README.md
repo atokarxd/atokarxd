@@ -10,11 +10,11 @@
   ![atokarxd's Stats](https://github-readme-stats.vercel.app/api?username=atokarxd&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
   * ### *Skills and Experiences*
-  + 🐍 Python
-  + ☕ Java
-  + 🦅 SWIFT
-  + ⚛ React
-  + 💻 HTML CSS JS
+    + 🐍 Python
+    + ☕ Java
+    + 🦅 SWIFT
+    + ⚛ React
+    + 💻 HTML CSS JS
 
 * ## *Project*
 ### Coming Soon....
