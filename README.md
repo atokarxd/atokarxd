@@ -1,8 +1,9 @@
 # This is a PORTFOLIO about ME
+# HI THERE 🖖 (Vulcan salute - Star Trek🚀)
 
-## AboutME
-I'm aTokar, and I'm 20 years old. A university student who drinks little alcohol. I'm not funny unfortunately :(
-I hope my uploaded projects will convince you to move on to other profiles with good experiences. I like dogs and cats. I have a cat, you can see it here:
+## AboutME 🤓
+I'm aTokar, and I'm 20 years old. A university student 👨‍🎓 who drinks little alcohol 🥃(fav: whiskey). I'm not funny unfortunately :(
+I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹 I like dogs 🐶 and cats 🐱 I have a cat, you can see it here:
 <img src="https://github.com/atokarxd/atokarxd/blob/main/IMG_0009.JPG" />
 ####(P.S.: I live in Hungary, yes currently the most corrupt country in all of Europe, and yes, Europe is a continent and not a country)
 
