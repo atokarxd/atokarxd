@@ -1,13 +1,12 @@
 # This is a PORTFOLIO about ME
-# HI THERE 🖖 (Vulcan salute - **Star Trek**🚀)
+# HELLO THERE 🖖 
 ___________
 * ## *AboutME* 🤓
-  I'm aTokar, and 20 years old. A university student 👨‍🎓 ~~who drinks little alcohol~~ 🥃(fav: whiskey).
-  I'm not funny unfortunately :(
-  I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹 I like dogs 🐶 and cats 🐱
-  I have a cat, you can see it here:
+  I'm aTokar, and 22 years old. I'm a university student at the University of Szeged.👨‍🎓
+  I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹
+  I have a dog, you can see it here:
   <details>
-    <summary>Blueberry</summary>
+    <summary>Simba</summary>
     <img src="https://github.com/atokarxd/atokarxd/blob/main/IMG_0009.JPG" />
   </details>
 > (P.S.: I live in Hungary, yes currently the most corrupt country in all of Europe, and yes, Europe is a continent and not a country)
@@ -18,7 +17,7 @@ ___________
     + ☕ Java
     + 🦅 SWIFT
     + ⚛ React
-    + 💻 HTML CSS JS
+    + 💻 HTML - CSS - JS
 ___________
 * ## *Project*
 ### Coming Soon....
