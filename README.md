@@ -3,7 +3,7 @@
 ___________
 <details>
   * <summary> <h2>*Project* </h2></summary>
-  ### > Coming Soon....
+  > ### Coming Soon....
 </details>
 ___________
 * ## *AboutME* 🤓
