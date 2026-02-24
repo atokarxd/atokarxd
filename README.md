@@ -1,6 +1,9 @@
 # This is a PORTFOLIO about ME
 # HELLO THERE 🖖 
 ___________
+* ## *Project*
+### Coming Soon....
+___________
 * ## *AboutME* 🤓
   I'm aTokar, and 22 years old. I'm a university student at the University of Szeged.👨‍🎓
   I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹
@@ -19,11 +22,7 @@ ___________
     + ⚛ React
     + 💻 HTML - CSS - JS
 ___________
-* ## *Project*
-### Coming Soon....
-___________
-
-[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-tokar-a85a17267/)
+[<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-tokar-a85a17267/) | [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/tix5040)
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/tix5040)
 [<img src='https://github.com/atokarxd/atokarxd/blob/main/bubl.svg' alt='website' height='40'>](www.jump.com)  
 
