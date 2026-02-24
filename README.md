@@ -2,7 +2,7 @@
 # HELLO THERE 🖖 
 ___________
 <details>
-  <summary> * ## *Project* </summary>
+  * ## <summary> *Project* </summary>
   ### Coming Soon....
 </details>
 ___________
