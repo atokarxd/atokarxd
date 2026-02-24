@@ -1,15 +1,12 @@
-# This is a PORTFOLIO about ME
 # HELLO THERE 🖖 
 ___________
-<details>
-  * <summary> <h2>*Project* </h2></summary>
-  > Coming Soon....
-</details>
+* ## *Project* 
+  Coming Soon....
 ___________
 * ## *AboutME* 🤓
   I'm aTokar, and 22 years old. I'm a university student at the University of Szeged.👨‍🎓
   I hope my uploaded projects will convince you to move on to other profiles with good experiences 💹
-  I have a dog, you can see it here:
+  I have a dog! You can see her in here:
   <details>
     <summary>Simba</summary>
     <img src="https://github.com/atokarxd/atokarxd/blob/main/IMG_0009.JPG" />
