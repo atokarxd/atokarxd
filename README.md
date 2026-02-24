@@ -2,8 +2,8 @@
 # HELLO THERE 🖖 
 ___________
 <details>
-  * ## <summary> <h1>*Project* </h1></summary>
-  ### Coming Soon....
+  * <summary> <h2>*Project* </h2></summary>
+  ### > Coming Soon....
 </details>
 ___________
 * ## *AboutME* 🤓
