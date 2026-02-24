@@ -1,8 +1,10 @@
 # This is a PORTFOLIO about ME
 # HELLO THERE 🖖 
 ___________
-* ## *Project*
+<detail>
+<summary> * ## *Project* </summary>
 ### Coming Soon....
+</detail>
 ___________
 * ## *AboutME* 🤓
   I'm aTokar, and 22 years old. I'm a university student at the University of Szeged.👨‍🎓
