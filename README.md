@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I am currently a **Computer Science** student at t
 
 ### 📫 Let's Connect
 
-[<img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/250px-LinkedIn_icon.svg.png?_=20210220164014 2x)' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-tokar-a85a17267/)
+[<img src='https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-tokar-a85a17267/)
 [<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/tix5040)
 [<img src='https://github.com/atokarxd/atokarxd/blob/main/bubl.svg' alt='website' height='40'>](www.jump.com)  
 * **Email:** [My mail](mailto:tokar.pisti@gmail.com)
