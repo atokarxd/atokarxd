@@ -1,57 +1,70 @@
-# Hi, I'm István! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+Istv%C3%A1n+%F0%9F%91%8B;CS+Student+%40+SZTE+TTIK" alt="Typing SVG" />
+</h1>
 
-**Frontend & iOS Developer | UI/UX Enthusiast**
+<p align="center">
+  <a href="https://www.linkedin.com/in/steven-tokar-a85a17267/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nox._.lol/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:tokar.pisti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Welcome to my GitHub profile! I am currently a **Computer Science** student at the **University of Szeged (SZTE TTIK)**. My passion is designing and building clean, modern user experiences, whether it's an interactive web application or a native mobile interface.
+<br>
 
-### 👨‍💻 About Me
-* 🎓 Currently studying Computer Science at **SZTE TTIK**, actively building my own projects.
-* 💻 My main focus is **Frontend development** (Angular, TypeScript, SCSS) and building **iOS applications** (Swift, SwiftUI).
-* 🎨 I'm highly interested in visual design, responsive architecture, and modern web effects.
----
+## 🧑‍💻 About Me
 
-### 🛠️ Tech Stack & Tools
-* **Web Development:** Angular, TypeScript, JavaScript, Node.js, SCSS/CSS
-* **Mobile Development:** Swift, SwiftUI
-* **Backend & Database:** Firebase (Auth, Firestore), Supabase
-* **Design & UX:** Figma, Responsive Design, CSS Animations
-* **Other:** Git, GitHub, Agile methodologies, UI Testing
+Hi! I'm **István Tokár**, currently studying **Computer Science** at the **University of Szeged (SZTE TTIK)**.
 
----
+I'm passionate about designing and building clean, modern user experiences — whether it's an interactive web application or a native mobile interface.
 
-### 🚀 Featured Projects
+* 🎓 Continuously learning and building personal projects
+* 💻 Main focus: **Frontend Development** (Angular, TypeScript) and **iOS Development** (Swift, SwiftUI)
+* 🎨 Interested in UI/UX design, responsive architecture, and modern web interactions
+* 📍 Hungary
 
-### 
+<br>
 
-#### 📱 iOS & Mobile Development
-* **[Shelfie](https://github.com/atokarxd/Shelfie)** - A native iOS book-tracking application built with **SwiftUI**. It integrates Firebase for secure authentication and Firestore for data management, complete with complex ViewModel architecture - University project
-* **[Calculator in Swift](https://github.com/atokarxd/CalculatorInSwift)** - A foundational iOS project focusing on precise state management, UI logic, and native Swift components - Hobby project
-* **[Swift Projects](https://github.com/atokarxd/SwiftProjects)** - A playground repository containing various UI/UX experiments and modular SwiftUI components - Hobby projects
+## 🛠️ Tech Stack
 
-#### 💻 Web Development
-* **[Slowsenger](https://github.com/atokarxd/Slowsenger)** - A chat application structured as a monorepo. It features an **Angular** frontend, a **Node.js** backend, and uses **Supabase** for database management - University project
-* **[Scorp](https://github.com/atokarxd/Scorp)** - A UI/UX-focused modern book database web application featuring CSS Grid, Parallax effects, and Custom Web Components - University project
-* **[Laravel-React-Inertia.js](https://github.com/atokarxd/Laravel-react-inertiajs)** - A full-stack application demonstrating the power of a modern monolith, combining a robust **Laravel** backend with a reactive **React** frontend using Inertia.js for seamless routing.
-* **[Software Testing](https://github.com/atokarxd/softw_test)** - A deep dive into software testing methodologies using **C++**, focusing on polymorphism and system testing within a simulated library management context - University project
-* **[Habit Tracker](https://github.com/atokarxd/habit_tracker)** - A habit-tracking application built using Agile methodology, featuring streak notifications and QR code integration - University project
-* **[CooLife](https://github.com/atokarxd/CooLife_University_Project-)** - A collaborative university project focusing on comprehensive software development practices and teamwork - University project
-* **[Athen](https://github.com/atokarxd/Athen)** - An academic software project focusing on structured data management and application architecture.
-* **[PDF Scanner](https://github.com/atokarxd/pdfscanner)** - A tool utilizing device image processing for document scanning and PDF generation
-* **[My Voice Assistant](https://github.com/atokarxd/MyVoiceAssistant)** - An experimental terminal application exploring speech recognition and natural language processing capabilities - Hobby project
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,swift,html,css,scss,firebase,supabase,figma,git,github&perline=9" />
+</p>
 
----
+<br>
 
-### 📈 GitHub Stats
+## 🚀 Featured Projects
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atokarxd&layout=compact&theme=vision-friendly-dark)
+### 📱 iOS & Mobile
 
----
+| Project                                                                  | Description                                                                                      | Type                                                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | ------------- |
+| [**Shelfie**](https://github.com/atokarxd/Shelfie)                       | Native iOS book-tracking app built with SwiftUI, featuring Firebase Auth and Firestore integration | University |
+| [**Calculator in Swift**](https://github.com/atokarxd/CalculatorInSwift) | iOS calculator with precise state management and native Swift components                           | Personal   |
+| [**Swift Projects**](https://github.com/atokarxd/SwiftProjects)          | Collection of UI/UX experiments and modular SwiftUI components                                     | Personal   |
 
-### 📫 Let's Connect
+### 💻 Web
 
-[<img src='https://images.icon-icons.com/2429/PNG/512/linkedin_logo_icon_147268.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/steven-tokar-a85a17267/)
-[<img src='https://cdn-icons-png.flaticon.com/512/1384/1384060.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/tix5040)
-[<img src='https://github.com/atokarxd/atokarxd/blob/main/bubl.svg' alt='website' height='40'>](www.jump.com)  
-* **Email:** [My mail](mailto:tokar.pisti@gmail.com)
+| Project                                                                             | Description                                                                                                            | Type          |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [**Slowsenger**](https://github.com/atokarxd/Slowsenger)                            | Chat application built with a monorepo architecture — Angular frontend, Node.js backend, and Supabase                  | University |
+| [**Scorp**](https://github.com/atokarxd/Scorp)                                      | Modern book database web application utilizing CSS Grid, Parallax effects, and Web Components                          | University |
+| [**Laravel-React-Inertia.js**](https://github.com/atokarxd/Laravel-react-inertiajs) | Full-stack application with a Laravel backend, React frontend, and Inertia.js routing                                  | Personal   |
+| [**Habit Tracker**](https://github.com/atokarxd/habit_tracker)                      | Habit tracking application developed using Agile methodologies, featuring streak notifications and QR code integration | University |
 
+<br>
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atokarxd&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atokarxd&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atokarxd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+</p>
